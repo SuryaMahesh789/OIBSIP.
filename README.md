@@ -1,4 +1,6 @@
-# Simple-Calculator-Using-Javascript
+# OIBSIP LEVEL-2 TASK-1 Simple-Calculator
+
+## Simple-Calculator-Using-Javascript
 
 ### Design
 ![image](https://user-images.githubusercontent.com/101471548/209911975-c667d123-19e0-42f0-9b7c-3f0a167ff53b.png)
